@@ -3,7 +3,6 @@
 <b>About Me</b>
 - 🌱 I’m currently learning musical keyboard
 - 💬 Ask me about: 🎥 movies, 🎶 music, 🖖 star trek, 🏍️ motocicles, 🚗 cars, 📜 filosophy and 🍺beers
-- 📫 Email me at georgelmaluf286@gmail.com
 - ⚡ Fun fact: I have five dogs 🐕
 
 <b> Languages and Tools </b>
