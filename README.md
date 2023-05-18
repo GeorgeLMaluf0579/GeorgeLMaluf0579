@@ -31,10 +31,5 @@
   <a href="mailto:georgelmaluf286@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-## 
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeLMaluf0579&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLMaluf0579&layout=compact&langs_count=8" />
-</div>
+##
 
