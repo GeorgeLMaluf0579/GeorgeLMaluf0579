@@ -2,7 +2,7 @@
 
 <b>About Me</b>
 - 🌱 I’m currently learning musical keyboard
-- 💬 Ask me about: 🎥 movies, 🎶 music, 🖖 star trek, 🏍️ motocicles, 🚗 cars, 📜 filosophy and 🍺beers
+- 💬 Ask me about: 🎥 movies, 🎶 music, 🖖 star trek, 🏍️ motorcycles, 🚗 cars, 📜 philosophy and 🍺beers
 - ⚡ Fun fact: I have five dogs 🐕
 
 <b> Languages and Tools </b>
