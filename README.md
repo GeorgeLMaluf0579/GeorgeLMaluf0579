@@ -2,7 +2,7 @@
 
 <b>About Me</b>
 - 💬 Ask me about: 🎥 movies, 🎶 music, 🖖 star trek, 🏍️ motorcycles, 🚗 cars, 📜 philosophy and 🍺beers
-- ⚡ Fun fact: I have five dogs 🐕
+- ⚡ Fun fact: I have three dogs 🐕
 
 <b> Languages and Tools </b>
 <div style="display: inline_block">
